@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Milena
-- 👀 I’m interested in develop systems
-- 🌱 I’m currently learning some programming languages
-- 📫 I live in the capital of São Paulo
+oii, eu sou a Milena. 
 
-<!---
-milenamarttiins/milenamarttiins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 eu sou programadora DS
+- 🌱 conheço algumaslinguagens da programação
+- 📫 sou de São Paulo
